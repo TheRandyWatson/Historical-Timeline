@@ -3,6 +3,11 @@ on:
   push:
     branches: [main]        # change if default branch isn't "main"
 
+permissions:
+  contents: write   # allow workflow to push to gh-pages
+  pages: write      # optional; future native Pages support
+  id-token: write   # optional; safe to include
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
