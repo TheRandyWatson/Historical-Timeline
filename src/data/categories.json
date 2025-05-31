@@ -1,0 +1,222 @@
+{
+  "categories": [
+    {
+      "id": "politics",
+      "name": "Politics & Government",
+      "children": [
+        {
+          "id": "elections",
+          "name": "Elections & Leadership Changes"
+        },
+        {
+          "id": "treaties",
+          "name": "Treaties & Agreements"
+        },
+        {
+          "id": "reforms",
+          "name": "Political Reforms"
+        }
+      ]
+    },
+    {
+      "id": "wars",
+      "name": "Wars & Military",
+      "children": [
+        {
+          "id": "major_wars",
+          "name": "Major Wars"
+        },
+        {
+          "id": "battles",
+          "name": "Significant Battles"
+        },
+        {
+          "id": "peace_treaties",
+          "name": "Peace Treaties"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Technology",
+      "children": [
+        {
+          "id": "inventions",
+          "name": "Inventions"
+        },
+        {
+          "id": "discoveries",
+          "name": "Scientific Discoveries"
+        },
+        {
+          "id": "computing",
+          "name": "Computing & Internet"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Space/Engineering",
+      "children": [
+        {
+          "id": "space_exploration",
+          "name": "Space Exploration"
+        },
+        {
+          "id": "aerospace",
+          "name": "Aerospace Achievements"
+        },
+        {
+          "id": "engineering",
+          "name": "Engineering Milestones"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "children": [
+        {
+          "id": "olympics",
+          "name": "Olympic Games"
+        },
+        {
+          "id": "football_soccer",
+          "name": "Football/Soccer"
+        },
+        {
+          "id": "american_football",
+          "name": "American Football"
+        },
+        {
+          "id": "baseball",
+          "name": "Baseball"
+        },
+        {
+          "id": "basketball",
+          "name": "Basketball"
+        },
+        {
+          "id": "hockey",
+          "name": "Ice Hockey"
+        },
+        {
+          "id": "golf",
+          "name": "Golf"
+        },
+        {
+          "id": "tennis",
+          "name": "Tennis"
+        },
+        {
+          "id": "motorsports",
+          "name": "Motorsports (F1, NASCAR)"
+        },
+        {
+          "id": "boxing",
+          "name": "Boxing"
+        },
+        {
+          "id": "mma",
+          "name": "Mixed Martial Arts"
+        },
+        {
+          "id": "cricket",
+          "name": "Cricket"
+        },
+        {
+          "id": "rugby",
+          "name": "Rugby"
+        },
+        {
+          "id": "athletics",
+          "name": "Track & Field"
+        },
+        {
+          "id": "cycling",
+          "name": "Cycling"
+        },
+        {
+          "id": "swimming",
+          "name": "Swimming"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "name": "Art & Culture",
+      "children": [
+        {
+          "id": "visual_arts",
+          "name": "Visual Arts"
+        },
+        {
+          "id": "music",
+          "name": "Music"
+        },
+        {
+          "id": "literature",
+          "name": "Literature"
+        },
+        {
+          "id": "pop_culture",
+          "name": "Pop Culture"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "Society & Movements",
+      "children": [
+        {
+          "id": "social_movements",
+          "name": "Social Movements"
+        },
+        {
+          "id": "civil_rights",
+          "name": "Civil Rights"
+        },
+        {
+          "id": "womens_rights",
+          "name": "Women's Rights"
+        }
+      ]
+    },
+    {
+      "id": "disasters",
+      "name": "Disasters & Crises",
+      "children": [
+        {
+          "id": "natural_disasters",
+          "name": "Natural Disasters"
+        },
+        {
+          "id": "pandemics",
+          "name": "Pandemics"
+        },
+        {
+          "id": "accidents",
+          "name": "Major Accidents"
+        }
+      ]
+    },
+    {
+      "id": "economics",
+      "name": "Economics & Business",
+      "children": [
+        {
+          "id": "economic_events",
+          "name": "Economic Events"
+        },
+        {
+          "id": "companies",
+          "name": "Major Companies"
+        },
+        {
+          "id": "financial_crisis",
+          "name": "Financial Crises"
+        }
+      ]
+    }
+  ]
+} 
