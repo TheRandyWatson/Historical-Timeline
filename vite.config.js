@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/historical-timeline/',  // include trailing slash
+  base: '/Historical-Timeline/',  // exact case + slash
 })
